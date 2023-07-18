@@ -34,7 +34,7 @@ npm install react-router-dom
 ```
 npm run dev
 ```
-+visualizar en:
++ visualizar en:
 
 [http://localhost:5173/](http://localhost:5173/)
 
@@ -42,12 +42,12 @@ npm run dev
 
 - No se instalaron dependecias mas allá de las vistas en la cursada, se utilizaron conocimientos de JS, del curso anterior, como de este curso.
 
-1.Para testear el proyecto, basicamente se debe elegir un juego, donde en la Main page se muestran todos, se puede filtrar por categoría. 
+1. Para testear el proyecto, basicamente se debe elegir un juego, donde en la Main page se muestran todos, se puede filtrar por categoría. 
 
-1.Para realizar las compras se debe ingresar al detalle del producto haciendo click en la card.
+1. Para realizar las compras se debe ingresar al detalle del producto haciendo click en la card.
 
-1.En la vista detalle se suma la cantidad de items a comprar y se hace click en comprar con lo cual lo agrega al Cart.
+1. En la vista detalle se suma la cantidad de items a comprar y se hace click en comprar con lo cual lo agrega al Cart.
 
-1.Luego para realizar le checkout se debe ingresar al cart y hacer click en checkout, completar los datos para que valide el boton de submit para ellos el carrito no debe estar vacío (en caso de que se entre a la ruta /checkout sin haber comprado) y el mail debe ser el mismo indicado en los dos forms.
+1. Luego para realizar le checkout se debe ingresar al cart y hacer click en checkout, completar los datos para que valide el boton de submit para ellos el carrito no debe estar vacío (en caso de que se entre a la ruta /checkout sin haber comprado) y el mail debe ser el mismo indicado en los dos forms.
 
 
