@@ -25,11 +25,11 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 
 ```
-+Instalar react router dom ///
++ Instalar react router dom ///
 ```
 npm install react-router-dom
 ```
-+correr el siguente comando en la terminal o powershell (windows) para la visualización en el navegador///
++ correr el siguente comando en la terminal o powershell (windows) para la visualización en el navegador///
 
 ```
 npm run dev
@@ -40,7 +40,7 @@ npm run dev
 
 ### Defensa del proyecto
 
--No se instalaron dependecias mas allá de las vistas en la cursada, se utilizaron conocimientos de JS, del curso anterior, como de este curso.
+- No se instalaron dependecias mas allá de las vistas en la cursada, se utilizaron conocimientos de JS, del curso anterior, como de este curso.
 
 1.Para testear el proyecto, basicamente se debe elegir un juego, donde en la Main page se muestran todos, se puede filtrar por categoría. 
 
