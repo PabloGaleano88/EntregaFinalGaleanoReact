@@ -7,7 +7,7 @@
 
 ### Dependencias de módulos
 
-*** Para el correcto funcionamiento se debe instalar los siguientes modulos ***
+**Para el correcto funcionamiento se debe instalar los siguientes modulos**
 
 + Instalar Vite
   
