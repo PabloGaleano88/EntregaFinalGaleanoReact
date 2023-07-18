@@ -51,4 +51,6 @@ npm run dev
 
 1. Luego para realizar le checkout se debe ingresar al cart y hacer click en checkout, completar los datos para que valide el boton de submit para ellos el carrito no debe estar vacío (en caso de que se entre a la ruta /checkout sin haber comprado) y el mail debe ser el mismo indicado en los dos forms.
 
+1. En el .env se encuentra la API KEY
+
 
