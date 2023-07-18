@@ -41,7 +41,7 @@ npm run dev
 
 ### Defensa del proyecto
 
-- No se instalaron dependecias mas allá de las vistas en la cursada, se utilizaron conocimientos de JS, del curso anterior, como de este curso.
+- No se instalaron dependencias mas allá de las vistas en la cursada, se utilizaron conocimientos de JS, del curso anterior, como de este curso.
 
 1. Para testear el proyecto, basicamente se debe elegir un juego, donde en la Main page se muestran todos, se puede filtrar por categoría. 
 
