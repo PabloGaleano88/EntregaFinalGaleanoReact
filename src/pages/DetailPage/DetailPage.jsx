@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom'
 import ItemDetailContainer from "../../components/ItemDetailContainer/ItemDetailContainer"
 
 //Styles
-import './Detailpage.css'
+import './DetailPage.css'
 
 const DetailPage = () => {
 
